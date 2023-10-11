@@ -6,3 +6,7 @@ total = sum(numbers)
 print("1부터 10까지의 합 :", total)
 #두번째
 print("Developer B\n")
+
+def calc_area(x, y):
+    result = x * y
+    return result
